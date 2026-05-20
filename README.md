@@ -25,8 +25,5 @@ The goal of this task was to build a robust authentication flow from scratch. Th
 - **Custom Decorators:** Implemented a `@Public()` metadata decorator to easily whitelist specific routes (like login/register) while keeping the rest of the application strictly protected by default.
 - **Graceful Error Handling:** Protects against `undefined` JWT payloads, prevents duplicate email/username registrations via single-query DB checks, and instantly locks out suspended accounts.
 
-## 🚀 Getting Started
-
-### Prerequisites
 - [Node.js](https://nodejs.org/) (v16 or higher)
-- A running relational database (e.g., PostgreSQL, MySQL)
+- A running relational database (PostgreSQL)
