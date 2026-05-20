@@ -30,8 +30,3 @@ The goal of this task was to build a robust authentication flow from scratch. Th
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (v16 or higher)
 - A running relational database (e.g., PostgreSQL, MySQL)
-
-### 1. Clone the repository
-```bash
-git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
-cd your-repo-name
